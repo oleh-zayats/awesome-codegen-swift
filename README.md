@@ -38,6 +38,9 @@ Generate Swift code for resources of your projects: <br/>
 Generate strong typed, autocompleted resources like images, fonts and segues in Swift projects: <br/>
 [R.Swift](https://github.com/mac-cain13/R.swift) <br/>
 
+A command line tool to create an Xcode .xcasset package from a folder of images: <br/>
+[XCAssetPacker](https://github.com/inquisitiveSoft/XCAssetPacker) <br/>
+
 Swagger API code generation: <br/>
 [SwagGen](https://github.com/yonaskolb/SwagGen)<br/>
 [Swagger API Codegen](https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/swift) <br/>
