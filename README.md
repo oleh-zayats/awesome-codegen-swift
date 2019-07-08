@@ -39,4 +39,5 @@ Generate strong typed, autocompleted resources like images, fonts and segues in 
 [R.Swift](https://github.com/mac-cain13/R.swift) <br/>
 
 Swagger API code generation: <br/>
+[SwagGen](https://github.com/yonaskolb/SwagGen)<br/>
 [Swagger API Codegen](https://github.com/swagger-api/swagger-codegen/tree/master/samples/client/petstore/swift) <br/>
