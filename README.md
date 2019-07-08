@@ -6,15 +6,15 @@ A curated list of awesome tools/tutorials for faster iOS (Swift) development.
 Generete xCode project from a configuration file. <br/>
 [XcodeGen](https://github.com/yonaskolb/XcodeGen) <br/>
 
+A Swift package for generating xCode Workspaces & Playgrounds. <br/>
+[Xgen](https://github.com/JohnSundell/Xgen) <br/>
+
 Create, maintain, and interact with Xcode projects at scale. <br/>
 [Tuist](https://github.com/tuist/tuist) <br/>
 
 Generate project modlules for any architecture. Easy to make own templates using Liquid templating language. <br/>
 [Generamba](https://github.com/strongself/Generamba) <br/>
 [Generamba Templates](https://github.com/strongself/generamba-catalog) <br/>
-
-A Swift package for generating xCode Workspaces & Playgrounds. <br/>
-[Xgen](https://github.com/JohnSundell/Xgen) <br/>
 
 Templating, scaffolding and generation tool. <br/>
 [Genesis](https://github.com/yonaskolb/Genesis) <br/>
