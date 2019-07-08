@@ -20,6 +20,11 @@ Meta-programming in Swift (uses SourceKitten): <br/>
 [Sourcery](https://github.com/krzysztofzablocki/Sourcery) <br/>
 [Sourcery Templates](https://github.com/AliSoftware/SourceryTemplates) <br/>
 
+GYB ('Generate Your Boilerplate') script for formulaic codegen: <br/>
+[Apple's gyb.py](https://github.com/apple/swift/blob/master/utils/gyb.py) <br/>
+[swift-gyb](https://github.com/NSHipster/swift-gyb) <br/>
+[Reading](https://nshipster.com/swift-gyb/) <br/>
+
 Dependency Injection framework for Swift with codegen powers: <br/>
 [Weaver](https://github.com/scribd/Weaver) <br/>
 
