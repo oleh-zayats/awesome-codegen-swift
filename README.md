@@ -34,6 +34,9 @@ Dependency Injection framework for Swift with codegen powers. <br/>
 Compile-time safe Dependency Injection (similar to Dagger framework for the JVM). <br/>
 [Needle](https://github.com/uber/needle) <br/>
 
+Generate code for Swinject Dependency Injection framework. <br/>
+[Swinject-CodeGen](https://github.com/Swinject/Swinject-CodeGen) <br/>
+
 Mock generation for Swift projects (uses SourceKitten). <br/>
 [Cuckoo](https://github.com/Brightify/Cuckoo) <br/>
 
