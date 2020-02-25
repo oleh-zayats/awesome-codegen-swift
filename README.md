@@ -1,5 +1,4 @@
-# Awesome code-generation tools for iOS
-A curated list of awesome tools/tutorials for faster iOS (Swift) development.
+# Code-generation tools for iOS
 
 ### Tools: <br/>
 
